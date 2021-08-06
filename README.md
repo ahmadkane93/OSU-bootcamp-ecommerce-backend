@@ -7,7 +7,8 @@
 ## Description
 
 The purpose of this app is to manage a database of products and tags through API calls.
-A walkthrough of the app can be found [here](insert link).
+<br>
+A walkthrough of the app can be found [here](https://www.youtube.com/watch?v=Ep6WZy2Gr34&t=24s).
 
 ## Table of Contents
 
