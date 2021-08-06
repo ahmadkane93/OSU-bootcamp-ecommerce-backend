@@ -43,7 +43,7 @@ mysql> source db/schema.sql
 To seed the database, type:
 
 ```
-npm run seed
+node seeds/index.js
 ```
 
 You will need to add a .env file specifying your MYSQL username and
