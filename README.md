@@ -39,7 +39,9 @@ schema, use mysql in the command line and type:
 ```
 mysql> source db/schema.sql
 ```
-
+```
+mysql> exit
+```
 To seed the database, type:
 
 ```
@@ -54,7 +56,7 @@ password.
 To initiate the app, go to your directory and run the command:
 
 ```
-node server.js
+node server
 ```
 
 ## License
